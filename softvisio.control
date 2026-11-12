@@ -1,0 +1,9 @@
+# https://www.postgresql.org/docs/current/extend-extensions.html#EXTEND-EXTENSIONS-FILES
+
+default_version = '1.0.0'
+comment = 'Additional types and functions'
+requires = ''
+superuser = false
+# trusted = false
+module_pathname = ''
+relocatable = true

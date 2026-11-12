@@ -1,0 +1,20 @@
+{
+    "name": "@softvisio/postgresql-softvisio",
+    "version": "0.0.0",
+    "private": true,
+    "description": "PostgreSQL additional types and functions",
+    "keywords": [
+        "postgresql"
+    ],
+    "homepage": "https://github.com/softvisio/postgresql-softvisio?tab=readme-ov-file#readme",
+    "bugs": {
+        "url": "https://github.com/softvisio/postgresql-softvisio/issues",
+        "email": "root <root@softvisio.net>"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/softvisio/postgresql-softvisio.git"
+    },
+    "license": "Proprietary Software",
+    "author": "root <root@softvisio.net>"
+}
