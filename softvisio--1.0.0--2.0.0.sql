@@ -3,9 +3,9 @@
 \echo 'ALTER EXTENSION softvisio UPDATE;'
 \echo \quit
 
-DROP FUNCTION IF EXISTS normalize_text ( value text );
-
 DROP FUNCTION IF EXISTS normalize_casefold ( value text );
+
+DROP FUNCTION IF EXISTS normalize_text ( value text );
 
 CREATE OR REPLACE FUNCTION normalize_nfc ( value text ) RETURNS text IMMUTABLE PARALLEL SAFE STRICT
     LANGUAGE sql
