@@ -122,4 +122,4 @@ CREATE OR REPLACE FUNCTION normalize_nfc ( value text ) RETURNS text IMMUTABLE P
 
 CREATE OR REPLACE FUNCTION normalize_nfc_casefold ( value text ) RETURNS text IMMUTABLE PARALLEL SAFE STRICT
     LANGUAGE sql
-    RETURN casefold( normalize_text( value ) );
+    RETURN casefold( normalize_nfc( value ) );
