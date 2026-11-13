@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.0.4 (2026-11-13)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix description (● [0ed24b9](https://github.com/softvisio/postgresql-softvisio/commit/0ed24b9); 👬 zdm)
+
+Compare with the previous release: [v2.0.3...v2.0.4](https://github.com/softvisio/postgresql-softvisio/compare/v2.0.3...v2.0.4)
+
 ### v2.0.3 (2026-11-13)
 
 **Bug fixes:**
