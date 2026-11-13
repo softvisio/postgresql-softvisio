@@ -1,6 +1,6 @@
 # Changelog
 
-### v1.0.0 (2026-11-12)
+### v2.0.0 (2026-11-13)
 
 **Migration notes:**
 
@@ -8,6 +8,6 @@ See the list of the breaking changes below for details.
 
 **Breaking changes:**
 
-- \[MAJOR] feat!: public release (● [39b7680](https://github.com/softvisio/postgresql-softvisio/commit/39b7680); 👬 zdm)
+- \[MAJOR] feat!: rename normalization functions (● [a1d179d](https://github.com/softvisio/postgresql-softvisio/commit/a1d179d); 👬 zdm)
 
-Compare with the previous release: [v0.0.1...v1.0.0](https://github.com/softvisio/postgresql-softvisio/compare/v0.0.1...v1.0.0)
+Compare with the previous release: [v1.0.0...v2.0.0](https://github.com/softvisio/postgresql-softvisio/compare/v1.0.0...v2.0.0)
