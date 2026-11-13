@@ -1,6 +1,6 @@
 {
     "name": "@softvisio/postgresql-softvisio",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "private": true,
     "description": "PostgreSQL additional types and functions",
     "keywords": [
