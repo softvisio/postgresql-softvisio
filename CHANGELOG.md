@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.0.3 (2026-11-13)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix normalization call (● [dc1a009](https://github.com/softvisio/postgresql-softvisio/commit/dc1a009); 👬 zdm)
+
+Compare with the previous release: [v2.0.2...v2.0.3](https://github.com/softvisio/postgresql-softvisio/compare/v2.0.2...v2.0.3)
+
 ### v2.0.2 (2026-11-13)
 
 **Bug fixes:**
